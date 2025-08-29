@@ -1,1 +1,1 @@
-require("obsidian").register_command("ObsidianTasks", { nargs = 0 })
+require("obsidian").register_command("tasks", { nargs = 0 })
